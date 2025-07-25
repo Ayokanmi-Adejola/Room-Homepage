@@ -165,6 +165,3 @@ room-homepage/
 
 - [Frontend Mentor](https://www.frontendmentor.io) for providing the design challenge
 - [Google Fonts](https://fonts.google.com) for the League Spartan typography
-- The Frontend Mentor community for inspiration and feedback
-
-# Room-Homepage
