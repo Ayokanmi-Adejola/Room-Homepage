@@ -1,6 +1,5 @@
 # Room Homepage
 
-A modern, responsive e-commerce homepage featuring an interactive image slider and elegant furniture showcase. Built as part of the Frontend Mentor challenge series.
 
 ![Room Homepage Preview](preview.jpg)
 
