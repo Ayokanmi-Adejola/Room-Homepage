@@ -1,14 +1,10 @@
 # Room Homepage
 
-
-![Room Homepage Preview](preview.jpg)
-
-
-
-
 ## 📖 Overview
 
 Room Homepage is a fully responsive e-commerce landing page that showcases modern furniture with an emphasis on clean design and user experience. The project demonstrates advanced CSS Grid layouts, interactive JavaScript components, and mobile-first responsive design principles.
+
+![Room Homepage Preview](preview.jpg)
 
 ### Challenge Requirements
 
@@ -58,7 +54,7 @@ Users should be able to:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ayokanmi-Adejola/room-homepage.git
+   git clone https://github.com/Ayokanmi-Adejola/Room-Homepage
    cd room-homepage
    ```
 
@@ -156,9 +152,6 @@ room-homepage/
 5. Open a Pull Request
 
 
-## 👨‍💻 Author
-
-- Frontend Mentor: [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
 
 ## 🙏 Acknowledgments
 
